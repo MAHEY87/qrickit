@@ -1,0 +1,53 @@
+{
+    "name": "QRickit",
+    "description": "Millions of people around the world see and use QR Codes (a.k.a QRickits) in their daily lives. Bands use QRickits to help their fans easily buy and download music to their mobile phone or other handheld device. Stores and businesses use QRickits to he...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1122-qrickit.jpg",
+    "tags": [
+        "have api",
+        "png",
+        "qr code"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/qrickit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "QRickit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1122-qrickit.jpg",
+            "humanURL": "http:\/\/qrickit.com\/qrickit_apps\/qrickit_api.php",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/qrickit-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/qrickit.com\/qrickit_apps\/qrickit_api.php"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/qrickit.blogspot.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/qriket"
+        },
+        {
+            "type": "Email",
+            "url": "me@qrickit.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/qrickit"
+        }
+    ]
+}
